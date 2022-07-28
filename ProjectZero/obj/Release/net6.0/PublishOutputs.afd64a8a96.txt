@@ -1,0 +1,9 @@
+C:\Revature\220705-UTA-NET\JonathanD\ProjectZero\bin\Release\net6.0\publish\ProjectZero.exe
+C:\Revature\220705-UTA-NET\JonathanD\ProjectZero\bin\Release\net6.0\publish\ProjectZero.dll
+C:\Revature\220705-UTA-NET\JonathanD\ProjectZero\bin\Release\net6.0\publish\ProjectZero.deps.json
+C:\Revature\220705-UTA-NET\JonathanD\ProjectZero\bin\Release\net6.0\publish\ProjectZero.runtimeconfig.json
+C:\Revature\220705-UTA-NET\JonathanD\ProjectZero\bin\Release\net6.0\publish\ProjectZero.pdb
+C:\Revature\220705-UTA-NET\JonathanD\ProjectZero\bin\Release\net6.0\publish\DotNetEnv.dll
+C:\Revature\220705-UTA-NET\JonathanD\ProjectZero\bin\Release\net6.0\publish\NewsAPI.dll
+C:\Revature\220705-UTA-NET\JonathanD\ProjectZero\bin\Release\net6.0\publish\Newtonsoft.Json.dll
+C:\Revature\220705-UTA-NET\JonathanD\ProjectZero\bin\Release\net6.0\publish\Sprache.dll
